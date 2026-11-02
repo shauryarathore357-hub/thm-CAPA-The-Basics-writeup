@@ -47,9 +47,9 @@ The first thing to learn is how much detail you want. CAPA has three levels, and
 
 | Command | What you get |
 |---|---|
-| `capa -h` | Help: lists every option the tool supports. Always the first stop with an unfamiliar tool. |
-| `capa -v` | **Verbose**: detailed capability results, including *where* in the file each rule matched. |
-| `capa -vv` | **Very verbose**: everything above plus the individual features and logic that triggered each rule. Use this when you need to *prove* why a capability was flagged. |
+| `capa -h` | Help : lists every option the tool supports. Always the first stop with an unfamiliar tool. |
+| `capa -v` | **Verbose** : detailed capability results, including *where* in the file each rule matched. |
+| `capa -vv` | **Very verbose** : everything above plus the individual features and logic that triggered each rule. Use this when you need to *prove* why a capability was flagged. |
 
 ![CLI options questions](images/02-cli-options.png)
 
